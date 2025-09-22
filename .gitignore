@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+joblogs/
+outputs/
+outputs*/
+logs/
+.DS_Store
+results/
+.vscode
+data/
