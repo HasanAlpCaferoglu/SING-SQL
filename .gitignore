@@ -5,6 +5,6 @@ outputs/
 outputs*/
 logs/
 .DS_Store
-results/
 .vscode
 data/
+dataset/
