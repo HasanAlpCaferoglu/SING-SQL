@@ -1,5 +1,7 @@
 # SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation
 
+[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://www.arxiv.org/abs/2509.25672) [![Bibtex](https://img.shields.io/badge/Cite-BibTeX-orange)](#citation)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Main Results](#main-results)
@@ -89,5 +91,15 @@ We released SingSQL-LM, a family of compact language models fine-tuned on the sy
 
 ## Citation
 
+If you find this repository helpful, please cite the following paper:
 ```
+@misc{caferoğlu2025singsqlsyntheticdatageneration,
+      title={SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation}, 
+      author={Hasan Alp Caferoğlu and Mehmet Serhat Çelik and Özgür Ulusoy},
+      year={2025},
+      eprint={2509.25672},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.25672}, 
+}
 ```
