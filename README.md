@@ -1,6 +1,6 @@
 # SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://www.arxiv.org/abs/2509.25672) [![Bibtex](https://img.shields.io/badge/Cite-BibTeX-orange)](#citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://www.arxiv.org/abs/2509.25672)  [![Project Website](https://img.shields.io/badge/Project_website-red.svg)](https://www.alpcaferoglu.com/posts/sing-sql)  [![Bibtex](https://img.shields.io/badge/Cite-BibTeX-orange)](#citation)
 
 ## Table of Contents
 - [Overview](#overview)
